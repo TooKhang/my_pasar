@@ -1,0 +1,4 @@
+#Mon Jan 02 09:11:27 SGT 2023
+base.0=C\:\\Users\\Too Khang\\Desktop\\4. Semester 5 2022\\2. Mobile Programming\\Flutter File\\homestay_raya\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
